@@ -1,0 +1,21 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+
+
+header {
+    display: flex;
+    height: 10vh;
+    position: sticky;
+    top: 0;
+    width: 100%;
+    
+}
+
+main {
+    height: 90vh;
+   
+}
+
